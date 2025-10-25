@@ -1,0 +1,428 @@
+{
+  "AuctionID": 15,
+  "Attributes": {
+    "attr_01": 61.58421236825793,
+    "attr_02": 70.06183362273724,
+    "attr_03": 97.71935224361823,
+    "attr_04": 34.14691141336522,
+    "attr_05": 41.77329163731627,
+    "attr_06": 15.382514569575267,
+    "attr_07": 92.83274926069713,
+    "attr_08": 20.088793924944046,
+    "attr_09": 44.98316161339732,
+    "attr_10": 8.35612688319637,
+    "attr_11": 46.002078400501766,
+    "attr_12": 65.99981072574482,
+    "attr_13": 18.98948279583425,
+    "attr_14": 60.3016746626997,
+    "attr_15": 3.1726307492742856,
+    "attr_16": 45.592642016696836,
+    "attr_17": 21.6016444030876,
+    "attr_18": 31.46584818886427,
+    "attr_19": 34.811669485987444,
+    "attr_20": 62.28482839627601
+  },
+  "Bids": [
+    {
+      "BidderID": 79,
+      "Amount": 72.0857642423841,
+      "TimeMs": 477,
+      "Meta": "latency=448ms"
+    },
+    {
+      "BidderID": 33,
+      "Amount": 70.933605402595,
+      "TimeMs": 507,
+      "Meta": "latency=478ms"
+    },
+    {
+      "BidderID": 66,
+      "Amount": 67.62817612219703,
+      "TimeMs": 189,
+      "Meta": "latency=160ms"
+    },
+    {
+      "BidderID": 38,
+      "Amount": 66.87594130431876,
+      "TimeMs": 443,
+      "Meta": "latency=414ms"
+    },
+    {
+      "BidderID": 27,
+      "Amount": 64.69468760136839,
+      "TimeMs": 350,
+      "Meta": "latency=335ms"
+    },
+    {
+      "BidderID": 97,
+      "Amount": 62.631733918718346,
+      "TimeMs": 294,
+      "Meta": "latency=266ms"
+    },
+    {
+      "BidderID": 36,
+      "Amount": 60.76014386783484,
+      "TimeMs": 342,
+      "Meta": "latency=313ms"
+    },
+    {
+      "BidderID": 10,
+      "Amount": 59.89900529562193,
+      "TimeMs": 156,
+      "Meta": "latency=142ms"
+    },
+    {
+      "BidderID": 16,
+      "Amount": 59.76167064631096,
+      "TimeMs": 294,
+      "Meta": "latency=278ms"
+    },
+    {
+      "BidderID": 74,
+      "Amount": 59.496835400888244,
+      "TimeMs": 539,
+      "Meta": "latency=510ms"
+    },
+    {
+      "BidderID": 92,
+      "Amount": 58.874756369175344,
+      "TimeMs": 133,
+      "Meta": "latency=104ms"
+    },
+    {
+      "BidderID": 29,
+      "Amount": 58.44300956427274,
+      "TimeMs": 543,
+      "Meta": "latency=528ms"
+    },
+    {
+      "BidderID": 61,
+      "Amount": 56.028034362797506,
+      "TimeMs": 615,
+      "Meta": "latency=585ms"
+    },
+    {
+      "BidderID": 23,
+      "Amount": 55.984523337928216,
+      "TimeMs": 193,
+      "Meta": "latency=178ms"
+    },
+    {
+      "BidderID": 71,
+      "Amount": 55.128322855956355,
+      "TimeMs": 430,
+      "Meta": "latency=401ms"
+    },
+    {
+      "BidderID": 54,
+      "Amount": 54.28230714484368,
+      "TimeMs": 213,
+      "Meta": "latency=183ms"
+    },
+    {
+      "BidderID": 80,
+      "Amount": 53.49021652679699,
+      "TimeMs": 321,
+      "Meta": "latency=292ms"
+    },
+    {
+      "BidderID": 42,
+      "Amount": 52.82764425772443,
+      "TimeMs": 376,
+      "Meta": "latency=347ms"
+    },
+    {
+      "BidderID": 90,
+      "Amount": 52.424347030847635,
+      "TimeMs": 186,
+      "Meta": "latency=157ms"
+    },
+    {
+      "BidderID": 50,
+      "Amount": 51.68930685726556,
+      "TimeMs": 529,
+      "Meta": "latency=501ms"
+    },
+    {
+      "BidderID": 4,
+      "Amount": 50.12748417730727,
+      "TimeMs": 88,
+      "Meta": "latency=74ms"
+    },
+    {
+      "BidderID": 85,
+      "Amount": 49.959068237022464,
+      "TimeMs": 179,
+      "Meta": "latency=149ms"
+    },
+    {
+      "BidderID": 9,
+      "Amount": 48.955073948338516,
+      "TimeMs": 211,
+      "Meta": "latency=196ms"
+    },
+    {
+      "BidderID": 7,
+      "Amount": 48.8224312795778,
+      "TimeMs": 518,
+      "Meta": "latency=503ms"
+    },
+    {
+      "BidderID": 47,
+      "Amount": 48.76682916716469,
+      "TimeMs": 416,
+      "Meta": "latency=388ms"
+    },
+    {
+      "BidderID": 55,
+      "Amount": 48.621309149445075,
+      "TimeMs": 200,
+      "Meta": "latency=171ms"
+    },
+    {
+      "BidderID": 72,
+      "Amount": 48.46047448127648,
+      "TimeMs": 407,
+      "Meta": "latency=378ms"
+    },
+    {
+      "BidderID": 34,
+      "Amount": 47.560886166745135,
+      "TimeMs": 560,
+      "Meta": "latency=531ms"
+    },
+    {
+      "BidderID": 57,
+      "Amount": 45.85468087402889,
+      "TimeMs": 300,
+      "Meta": "latency=271ms"
+    },
+    {
+      "BidderID": 64,
+      "Amount": 44.58243295473147,
+      "TimeMs": 170,
+      "Meta": "latency=140ms"
+    },
+    {
+      "BidderID": 39,
+      "Amount": 44.512304283691776,
+      "TimeMs": 619,
+      "Meta": "latency=588ms"
+    },
+    {
+      "BidderID": 94,
+      "Amount": 44.4717460812208,
+      "TimeMs": 254,
+      "Meta": "latency=225ms"
+    },
+    {
+      "BidderID": 96,
+      "Amount": 43.657513837990564,
+      "TimeMs": 290,
+      "Meta": "latency=261ms"
+    },
+    {
+      "BidderID": 43,
+      "Amount": 43.63431524099379,
+      "TimeMs": 254,
+      "Meta": "latency=226ms"
+    },
+    {
+      "BidderID": 12,
+      "Amount": 43.265627101835406,
+      "TimeMs": 402,
+      "Meta": "latency=387ms"
+    },
+    {
+      "BidderID": 32,
+      "Amount": 41.75660160643758,
+      "TimeMs": 80,
+      "Meta": "latency=51ms"
+    },
+    {
+      "BidderID": 21,
+      "Amount": 40.64039172906971,
+      "TimeMs": 292,
+      "Meta": "latency=277ms"
+    },
+    {
+      "BidderID": 62,
+      "Amount": 39.200702422431405,
+      "TimeMs": 325,
+      "Meta": "latency=296ms"
+    },
+    {
+      "BidderID": 11,
+      "Amount": 35.458025887179886,
+      "TimeMs": 67,
+      "Meta": "latency=53ms"
+    },
+    {
+      "BidderID": 13,
+      "Amount": 33.80702282463499,
+      "TimeMs": 321,
+      "Meta": "latency=306ms"
+    },
+    {
+      "BidderID": 46,
+      "Amount": 33.1154479756481,
+      "TimeMs": 471,
+      "Meta": "latency=442ms"
+    },
+    {
+      "BidderID": 59,
+      "Amount": 32.09030758159861,
+      "TimeMs": 338,
+      "Meta": "latency=309ms"
+    },
+    {
+      "BidderID": 93,
+      "Amount": 31.871340780730506,
+      "TimeMs": 450,
+      "Meta": "latency=421ms"
+    },
+    {
+      "BidderID": 56,
+      "Amount": 30.99500243791795,
+      "TimeMs": 440,
+      "Meta": "latency=411ms"
+    },
+    {
+      "BidderID": 37,
+      "Amount": 30.595386890865804,
+      "TimeMs": 217,
+      "Meta": "latency=188ms"
+    },
+    {
+      "BidderID": 98,
+      "Amount": 30.274742628955906,
+      "TimeMs": 374,
+      "Meta": "latency=344ms"
+    },
+    {
+      "BidderID": 41,
+      "Amount": 30.195145943782897,
+      "TimeMs": 117,
+      "Meta": "latency=87ms"
+    },
+    {
+      "BidderID": 82,
+      "Amount": 30.07131240169742,
+      "TimeMs": 453,
+      "Meta": "latency=425ms"
+    },
+    {
+      "BidderID": 48,
+      "Amount": 29.39835763141036,
+      "TimeMs": 177,
+      "Meta": "latency=148ms"
+    },
+    {
+      "BidderID": 2,
+      "Amount": 29.347497235265344,
+      "TimeMs": 77,
+      "Meta": "latency=63ms"
+    },
+    {
+      "BidderID": 35,
+      "Amount": 28.8570322170388,
+      "TimeMs": 337,
+      "Meta": "latency=308ms"
+    },
+    {
+      "BidderID": 31,
+      "Amount": 28.76200903763622,
+      "TimeMs": 257,
+      "Meta": "latency=242ms"
+    },
+    {
+      "BidderID": 0,
+      "Amount": 25.31092963141615,
+      "TimeMs": 159,
+      "Meta": "latency=145ms"
+    },
+    {
+      "BidderID": 40,
+      "Amount": 23.218075075909283,
+      "TimeMs": 170,
+      "Meta": "latency=142ms"
+    },
+    {
+      "BidderID": 95,
+      "Amount": 21.579930351362947,
+      "TimeMs": 369,
+      "Meta": "latency=340ms"
+    },
+    {
+      "BidderID": 28,
+      "Amount": 19.4542122970837,
+      "TimeMs": 101,
+      "Meta": "latency=85ms"
+    },
+    {
+      "BidderID": 22,
+      "Amount": 19.390873675523057,
+      "TimeMs": 486,
+      "Meta": "latency=472ms"
+    },
+    {
+      "BidderID": 15,
+      "Amount": 17.2636674282298,
+      "TimeMs": 207,
+      "Meta": "latency=193ms"
+    },
+    {
+      "BidderID": 73,
+      "Amount": 16.9143791561078,
+      "TimeMs": 191,
+      "Meta": "latency=162ms"
+    },
+    {
+      "BidderID": 24,
+      "Amount": 16.30148657021988,
+      "TimeMs": 474,
+      "Meta": "latency=459ms"
+    },
+    {
+      "BidderID": 89,
+      "Amount": 15.870449309218888,
+      "TimeMs": 323,
+      "Meta": "latency=294ms"
+    },
+    {
+      "BidderID": 58,
+      "Amount": 14.833845848453779,
+      "TimeMs": 377,
+      "Meta": "latency=349ms"
+    },
+    {
+      "BidderID": 81,
+      "Amount": 14.309642176358295,
+      "TimeMs": 95,
+      "Meta": "latency=66ms"
+    },
+    {
+      "BidderID": 68,
+      "Amount": 14.208211999856651,
+      "TimeMs": 272,
+      "Meta": "latency=244ms"
+    },
+    {
+      "BidderID": 45,
+      "Amount": 13.154718198348409,
+      "TimeMs": 476,
+      "Meta": "latency=447ms"
+    }
+  ],
+  "Winner": {
+    "BidderID": 79,
+    "Amount": 72.0857642423841,
+    "TimeMs": 477,
+    "Meta": "latency=448ms"
+  },
+  "StartTime": "2025-10-25T14:22:57.9542213+05:30",
+  "EndTime": "2025-10-25T14:22:58.5738332+05:30",
+  "DurationMs": 619,
+  "TimeoutMs": 10000,
+  "TotalBidders": 100
+}

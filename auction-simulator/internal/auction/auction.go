@@ -16,7 +16,7 @@ func RunAuction(
 	auctionID int,
 	bidders []func(bidder.BidRequest),
 	timeoutMs int,
-	limiter *resources.Limiter,
+	limiter resources.Limiter,
 ) model.AuctionResult {
 
 	ctx, cancel := context.WithTimeout(context.Background(), time.Duration(timeoutMs)*time.Millisecond)
@@ -103,7 +103,7 @@ func RunAuction(
 		StartTime:    start,
 		EndTime:      end,
 		DurationMs:   end.Sub(start).Milliseconds(),
-		TimeoutMs:    timeoutMs,
+		TimeoutMs:    int64(timeoutMs),
 		TotalBidders: len(bidders),
 	}
 }
