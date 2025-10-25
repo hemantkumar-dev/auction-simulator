@@ -27,8 +27,7 @@ auction-simulator/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/hemantkumar-dev/auction-simulator.git
-cd auction-simulator
+git clone https://github.com/hemantkumar-dev/auction-simulator
 ```
 
 2. Initialize and update dependencies
